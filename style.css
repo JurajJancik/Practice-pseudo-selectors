@@ -1,0 +1,10 @@
+#klikaj {
+    border: 5px solid pink;
+    background-color: coral;
+    width: 150px;
+    text-align: center;
+    box-shadow: 3px 3px 3px 3px;
+}
+#klikaj:hover {
+    color: blue;
+}
